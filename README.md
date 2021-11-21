@@ -15,12 +15,12 @@ Overview
 superman game
    
        Its a simple simulation of a flying superman game to avoid obsticals and level up
-=============================================       
+      
 halloween game
       
        Its an implementation of a simple halloween filter and make-up applicator game  
-=============================================       
+     
 prototype of a smart scale
    
        Its a implementation of a prototype of a smart whight scale.
-=============================================       
+      
